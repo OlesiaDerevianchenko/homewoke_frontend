@@ -1,0 +1,59 @@
+.top_header{
+    width: 100%;
+    background-color: #085494;
+    height: 35px;
+}
+
+.header{
+    position: relative;
+    height: 35px;
+    width: 1215px;
+    background-color: #085494;
+
+
+}
+
+.top_menu {
+
+     margin-left: 566px;
+
+}
+
+.header li  {
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+
+
+}
+
+.header li a{
+    display: block;
+    color: #60b5ed;
+    text-align: justify;
+    height: 35px;
+    line-height: 30px;
+
+}
+
+.click6{
+    margin-left: 30px;
+}
+
+.click6:before{
+    content: "";
+    position: absolute;
+    top: 20%;
+    right: 23%;
+    width: 23px;
+    height: 27px;
+    background-image: url("../img/inventicons.png");
+}
+
+.top_menu a:hover{
+    background-color: #4eabda;
+    height: 35px;
+    color: #ffffff;
+}
+
+
